@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://www.google.com/imgres?q=laravel%20icon%20svg&imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FLaravel%2FLaravel-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLaravel&docid=Tpq9SxaZlctxgM&tbnid=x2e74uac7qx1tM&vet=12ahUKEwj9-7Sr78iOAxUbVaQEHR1AEJIQM3oECCkQAA..i&w=3000&h=2000&hcb=2&ved=2ahUKEwj9-7Sr78iOAxUbVaQEHR1AEJIQM3oECCkQAA)" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
