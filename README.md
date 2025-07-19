@@ -80,10 +80,30 @@
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedheshamesmail&show_icons=true&locale=en&layout=compact" alt="ahmedheshamesmail" />
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedheshamesmail&show_icons=true&theme=gruvbox" alt="github stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail" alt="ahmedheshamesmail" />
+---
+
+<h3 align="center">📘 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" alt="top languages" />
 </p>
+
+---
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmedheshamesmail&theme=react-dark&area=true" alt="github activity graph" />
+</p>
+
+---
+
+<h3 align="center">🔗 Useful Links & Resources</h3>
+<ul>
+  <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="_blank">Awesome GitHub Profile README (Collection of cool tools & templates)</a></li>
+  <li><a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">GitHub Readme Activity Graph (Tool for showing activity graph)</a></li>
+</ul>
+
