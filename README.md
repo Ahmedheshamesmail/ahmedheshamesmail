@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ahmed Hesham</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
@@ -98,12 +99,3 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=ahmedheshamesmail&theme=react-dark&area=true" alt="github activity graph" />
 </p>
-
----
-
-<h3 align="center">🔗 Useful Links & Resources</h3>
-<ul>
-  <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="_blank">Awesome GitHub Profile README (Collection of cool tools & templates)</a></li>
-  <li><a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">GitHub Readme Activity Graph (Tool for showing activity graph)</a></li>
-</ul>
-
