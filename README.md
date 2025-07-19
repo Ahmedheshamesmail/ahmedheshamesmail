@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ahmed Hesham</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
@@ -7,19 +6,22 @@
 </p>
 
 - 🔭 I’m currently working on **Edge Pro for Information System**  
-- 📫 How to reach me: **ahmedheshamesmail@gmail.com**
+- 🌱 I’m constantly learning and improving my backend skills  
+- 👯 I’m looking to collaborate on interesting backend projects  
+- 💬 Ask me about PHP, Laravel, MySQL, and APIs  
+- 📫 How to reach me: **ahmedheshamesmail@gmail.com**  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ahmedheshamesm2" target="blank">
+  <a href="https://twitter.com/ahmedheshamesm2" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/ahmedheshamesmail8799" target="blank">
+  <a href="https://www.youtube.com/c/ahmedheshamesmail8799" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
 </p>
@@ -28,6 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Tools icons as before -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -74,29 +77,42 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedheshamesmail&theme=gruvbox&row=2&column=3" alt="trophies" />
-</p>
+## 🚀 Projects
+- [Edge Pro for Information System](https://github.com/ahmedheshamesmail/edge-pro) - Backend system for information management (Add your real repo link)
+- [E-commerce Store](https://github.com/ahmedheshamesmail/ecommerce-store) - Online shopping platform built with Laravel (Add your real repo link)
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## ✍️ Blog Posts
+- [How to Build REST APIs with Laravel](https://medium.com/@ahmedheshamesmail/how-to-build-rest-apis-with-laravel-123456) (Add your real blog post link)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedheshamesmail&show_icons=true&theme=gruvbox" alt="github stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-<h3 align="center">📘 Top Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" alt="top languages" />
 </p>
 
 ---
 
-<h3 align="center">🔥 GitHub Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+## 📫 How to reach me
+
+Feel free to send me an email at **ahmedheshamesmail@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/).
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ahmedheshamesmail.ahmedheshamesmail)
 
