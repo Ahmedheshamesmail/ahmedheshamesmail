@@ -95,7 +95,8 @@
 
 ---
 
-<h3 align="center">📈 GitHub Activity Graph</h3>
+<h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ahmedheshamesmail&theme=react-dark&area=true" alt="github activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
