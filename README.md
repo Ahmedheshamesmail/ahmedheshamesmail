@@ -77,17 +77,6 @@
 
 ---
 
-## 🚀 Projects
-- [Edge Pro for Information System](https://github.com/ahmedheshamesmail/edge-pro) - Backend system for information management (Add your real repo link)
-- [E-commerce Store](https://github.com/ahmedheshamesmail/ecommerce-store) - Online shopping platform built with Laravel (Add your real repo link)
-
----
-
-## ✍️ Blog Posts
-- [How to Build REST APIs with Laravel](https://medium.com/@ahmedheshamesmail/how-to-build-rest-apis-with-laravel-123456) (Add your real blog post link)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -114,5 +103,6 @@ Feel free to send me an email at **ahmedheshamesmail@gmail.com** or connect with
 
 ---
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ahmedheshamesmail.ahmedheshamesmail)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-👁️-blue)
+
 
