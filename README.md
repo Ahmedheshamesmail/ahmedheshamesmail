@@ -74,7 +74,19 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+---
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedheshamesmail&theme=gruvbox&row=2&column=3" alt="trophies" />
+</p>
 
+---
+
+
+<h3 align="center">📘 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" alt="top languages" />
+</p>
 ---
 
 ## 📈 GitHub Stats
