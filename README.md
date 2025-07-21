@@ -99,9 +99,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" alt="top languages" />
-</p>
+
 
 ---
 
