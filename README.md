@@ -1,118 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hesham</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmedheshamesmail&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedheshamesmail" /> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,tailwind,git,postman,js,html,css" height="60" />
+</div>
+
+---
+
+<h1 align="center">Hi 👋, I'm Ahmed Hesham</h1>
+<h3 align="center">A passionate Backend Developer from Egypt</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedheshamesmail&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🔭 I’m currently working on **Edge Pro for Information System**  
-- 🌱 I’m constantly learning and improving my backend skills  
-- 👯 I’m looking to collaborate on interesting backend projects  
-- 💬 Ask me about PHP, Laravel, MySQL, and APIs  
-- 📫 How to reach me: **ahmedheshamesmail@gmail.com**  
+<ul>
+  <li>🔭 Working at <strong>Edge Pro for Information System</strong></li>
+  <li>🌱 Improving my backend stack (Laravel / MySQL / APIs)</li>
+  <li>👯 Open for backend collaborations</li>
+  <li>💬 Ask me about PHP, Laravel, MySQL, APIs</li>
+  <li>📫 Contact: <strong>ahmedheshamesmail@gmail.com</strong></li>
+</ul>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ahmedheshamesm2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/ahmedheshamesmail8799" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
-  </a>
+  <a href="https://twitter.com/ahmedheshamesm2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+  <a href="https://www.youtube.com/c/ahmedheshamesmail8799" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Tools icons as before -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+<h3 align="left">Languages & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,sqlite,js,html,css,react,tailwind,git,postman,bootstrap" height="50" />
 </p>
+
 ---
+
+<h3 align="center">🔥 Activity & Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedheshamesmail&show_icons=true&theme=gruvbox" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" height="160" />
+</p>
+
+---
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedheshamesmail&theme=gruvbox&row=2&column=3" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedheshamesmail&theme=dracula&row=2&column=3" />
 </p>
 
 ---
 
-<h3 align="center">📘 Top Languages</h3>
+<h3 align="center">🎮 Pacman Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheshamesmail&layout=compact&theme=gruvbox" alt="top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h3>📫 Contact</h3>
+<p>Email: <strong>ahmedheshamesmail@gmail.com</strong></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedheshamesmail&show_icons=true&theme=gruvbox" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheshamesmail&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
-
----
-
-## 📫 How to reach me
-
-Feel free to send me an email at **ahmedheshamesmail@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-hesham-esmail-46bb75173/).
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-👁️-blue)
-
-
+<blockquote>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</blockquote>
